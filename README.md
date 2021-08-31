@@ -1,4 +1,4 @@
-### <div align="center">Hi, I'm Adam, I've been working as a frontend developer for almost 4 years. In my free time I like to learn and find out new things, not necessarily related to frontend. Recently I also started learning Golang, Rust and web security to get a better understanding of how the web apps works.</div>  
+### <div align="center">Hi, I'm Adam, I've been working as a frontend developer for almost 4 years. In my free time I like to learn and find out new things, not necessarily related to frontend. Recently I also started learning Golang, Rust and web security to get a better understanding of how the web apps works. At work, mostly I use Vue + TS, but occasionally there are tasks with node environment or React</div>  
   
 
 <br/>  
