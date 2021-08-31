@@ -1,11 +1,8 @@
-### <div align="center">Hi, I'm Adam, I've been working as a frontend developer for almost 4 years. In my free time I like to learn and find out new things, not necessarily related to frontend. Recently I also started learning Golang, Rust and web security to get a better understanding of how the web apps works. At work, mostly I use Vue + TS, but occasionally there are tasks with node environment or React</div>  
-  
-
-<br/>  
-
+## 🙍‍♂️ About me
+Hi, I'm Adam, I've been working as a frontend developer for almost 4 years. In my free time I like to learn and find out new things, not necessarily related to frontend. Recently I also started learning Golang, Rust and web security to get a better understanding of how the web apps works. At work, mostly I use Vue + TS, but occasionally there are tasks with node environment or React 
+ ## 🛠️ Technologies
 
 ## My Skill Set  
-<div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="25" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="25" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="25" />  
@@ -26,16 +23,11 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="25" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="25" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobexd.png" alt="Adobe XD" height="25" />  
-</div>  
-
-<br/>  
-
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=adamJacewicz&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
+<div align="center">
 
 
-## Connect with me  
+
+## ✉️ Contact
 <div align="center">
 <a href="https://github.com/adamJacewicz" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
